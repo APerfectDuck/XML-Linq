@@ -1,0 +1,13 @@
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\bin\Debug\netcoreapp3.1\ConsoleXMLProgram.exe
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\bin\Debug\netcoreapp3.1\ConsoleXMLProgram.deps.json
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\bin\Debug\netcoreapp3.1\ConsoleXMLProgram.runtimeconfig.json
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\bin\Debug\netcoreapp3.1\ConsoleXMLProgram.runtimeconfig.dev.json
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\bin\Debug\netcoreapp3.1\ConsoleXMLProgram.dll
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\bin\Debug\netcoreapp3.1\ConsoleXMLProgram.pdb
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\obj\Debug\netcoreapp3.1\ConsoleXMLProgram.csprojAssemblyReference.cache
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\obj\Debug\netcoreapp3.1\ConsoleXMLProgram.AssemblyInfoInputs.cache
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\obj\Debug\netcoreapp3.1\ConsoleXMLProgram.AssemblyInfo.cs
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\obj\Debug\netcoreapp3.1\ConsoleXMLProgram.csproj.CoreCompileInputs.cache
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\obj\Debug\netcoreapp3.1\ConsoleXMLProgram.dll
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\obj\Debug\netcoreapp3.1\ConsoleXMLProgram.pdb
+C:\Users\ahadd\source\repos\HaddadAlbertAssignment8\ConsoleXMLProgram\obj\Debug\netcoreapp3.1\ConsoleXMLProgram.genruntimeconfig.cache
